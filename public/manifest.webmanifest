@@ -2,11 +2,11 @@
     "theme_color": "#000000",
     "background_color": "#000000",
     "display": "standalone",
-    "scope": "https://kaustubhodak.vercel.app/",
-    "start_url": "https://kaustubhodak.vercel.app/",
-    "name": "Kaustubh Odak",
-    "short_name": "KO",
-    "description": "Kaustubh Odak's portfolio",
+    "scope": "https://allisonanzalone.vercel.app/",
+    "start_url": "https://allisonanzalone.vercel.app/",
+    "name": "Allison Anzalone",
+    "short_name": "AA",
+    "description": "Allison Anzalone's Portfolio",
     "icons": [
         {
             "src": "/icon-192x192.png",
