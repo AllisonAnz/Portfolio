@@ -71,7 +71,7 @@ export default function Experience() {
                 <Typography variant="h2" gutterBottom align="center">
                     Experience
                 </Typography>
-                <Hidden mdDown>
+                <Hidden smDown>
                     <Fade in={animate} style={{ transitionDelay: '250ms' }}>
                         <div>
                             <Image

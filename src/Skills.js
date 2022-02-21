@@ -69,7 +69,7 @@ export default function Skills() {
                 <Typography variant="h2" gutterBottom align="center">
                     Skills
                 </Typography>
-                <Hidden mdDown>
+                <Hidden smDown>
                     <Fade in={animate} style={{ transitionDelay: '100ms' }}>
                         <div>
                             <Image

@@ -86,7 +86,7 @@ export default function Landing() {
                 </Grid>
             </Grid>
 
-            <Hidden mdDown>
+            <Hidden smDown>
                 <Fade in={true} style={{ transitionDelay: '100ms' }}>
                     <Grid item lg={6}>
                         <Image
