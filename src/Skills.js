@@ -64,7 +64,7 @@ export default function Skills() {
     const animate = useAnimate(animRef)
 
     return (
-        <Grid container justify="center" alignItems="center" spacing={10} className={classes.cont}>
+        <Grid container justify="center" alignItems="center" spacing={1} className={classes.cont}>
             <Grid item xs={12} lg={6} ref={animRef}>
                 <Typography variant="h2" gutterBottom align="center">
                     Skills
