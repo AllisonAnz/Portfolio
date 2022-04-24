@@ -58,10 +58,10 @@
     "projects": {
         "baseURI": "https://api.github.com/repos/AllisonAnz/",
         "repositories": [
-            "stock-tracker",
-            "e-commerce-react-app ",
+            "Stock-Simulator",
+            "e-commerce-react-app",
             "civics-search-app",
-            "rails-garden-planner-app"
+            "Garden-Schedule"
         ]
     },
     "experience": {
