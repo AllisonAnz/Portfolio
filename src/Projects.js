@@ -30,7 +30,7 @@ export default function Projects({ data }) {
                 <Typography variant="h2" gutterBottom align="center" innerRef={animRef}>
                     Projects
                 </Typography>
-                <Hidden smDown>
+                <Hidden mdDown>
                     <Fade in={animate} style={{ transitionDelay: '250ms' }}>
                         <div>
                             <Image
